@@ -1,4 +1,4 @@
-# Atom Keyboard Shortcuts
+﻿# Atom Keyboard Shortcuts
 
 This page lists keyboard shortcuts for the [Atom text editor](https://atom.io) that I find valuable and use a lot. Feel free to fork the page and add your own favorites. Pull Requests welcome!
 
@@ -8,7 +8,7 @@ Since I'm using a Mac, I have mainly listed the keyboard shortcuts macOS. Please
 
 Where the shortcut is provided by a package, I have added a link to the package.
 
-## General
+## General2
 
 Some general keyboard shortcuts that I use frequently.
 
